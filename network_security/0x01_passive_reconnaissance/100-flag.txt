@@ -1,8 +1,1 @@
-# Query TXT directly
-dig @<target IP> passive.hbtn TXT
-
-# Optional: Look for nameservers
-dig @<target IP> passive.hbtn NS
-
-# Then check TXT on nameservers if needed
-dig @<target IP> ns1.passive.hbtn TXT
+ed261ab02a86bd51ac7495aa9adf8f9a
